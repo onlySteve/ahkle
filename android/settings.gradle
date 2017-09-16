@@ -1,0 +1,3 @@
+rootProject.name = 'newManager'
+
+include ':app'
